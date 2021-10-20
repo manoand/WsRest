@@ -1,0 +1,13 @@
+*.class
+/settings
+/target
+/bin/
+.project
+
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
